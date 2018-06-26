@@ -1,0 +1,16 @@
+{
+  "name": "prtr-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "split-prtr-files-csv.js",
+  "dependencies": {
+    "csv-parse": "^2.5.0",
+    "split-by-line": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
